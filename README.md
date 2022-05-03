@@ -1,2 +1,7 @@
 # Gerador-de-Senha
+GERADOR DE SENHA
+
+DESENVOLVIDO EM HTML CSS E JS
+
+BASEADO NO TRABALHO DO SUJEITO PROGRAMADOR (CANAL DO YOUTUBE)
 ![image](https://user-images.githubusercontent.com/56135005/166586559-5c4422de-6789-4f1c-bc7f-cd0bcfa2f023.png)
